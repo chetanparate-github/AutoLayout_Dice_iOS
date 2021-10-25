@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  AutoLayout-iOS13
 //
-//  Created by Angela Yu on 28/06/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Chetan Parate on 04/10/2021
 //
 
 import UIKit
